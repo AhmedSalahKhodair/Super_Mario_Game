@@ -1,0 +1,4 @@
+E:\MARIO\training3\training3Content\obj\x86\Release\training3Content.contentprojResolveAssemblyReference.cache
+D:\MARIO\training3\training3Content\obj\x86\Release\training3Content.contentprojResolveAssemblyReference.cache
+C:\Users\Conda\Desktop\MARIO\training3\training3Content\obj\x86\Release\training3Content.contentprojResolveAssemblyReference.cache
+C:\Users\khaled\Documents\Visual Studio 2013\Projects\xna\MARIO\training3\training3Content\obj\x86\Release\training3Content.contentprojResolveAssemblyReference.cache

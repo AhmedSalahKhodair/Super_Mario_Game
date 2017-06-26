@@ -1,0 +1,410 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///C:/PROGRAM FILES (X86)/MICROSOFT VISUAL STUDIO 12.0/COMMON7/IDE/EXTENSIONS/MICROSOFT/ARCHITECTURE TOOLS/EXTENSIBILITY/Logging/ReverseEngineeringLog.xslt"?>
+<Log xmlns="http://schemas.microsoft.com/VisualStudio/2010/CodeGen.RE.Log" Label="Code Generation/Text Transformation Log">
+  <MessageClass Name="Message" Label="Message" Option="Show informational messages" />
+  <MessageClass Name="Warning" Label="Warning" Option="Show warnings" />
+  <MessageClass Name="Error" Label="Error" Option="Show errors" />
+  <MessageClass Name="Property" Label="Property" Option="Show metadata" />
+  <MessageClass Name="Diagnostic" Label="Message" Option="Show diagnostic messages" />
+  <Message Timestamp="2015-05-09T03:45:07" Importance="High" Text="Reverse Engineering Started." />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: '19eb43ad-9b32-45c9-b2f9-ee42b8203b22' -  (ClassifierTemplateParameter)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Boolean' -  (PrimitiveType)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Integer' -  (PrimitiveType)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Microsoft' -  (Package)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Microsoft::Xna' -  (Package)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Microsoft::Xna::Framework' -  (Package)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Microsoft::Xna::Framework::Audio' -  (Package)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Microsoft::Xna::Framework::Audio::SoundEffect' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Microsoft::Xna::Framework::Color' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Microsoft::Xna::Framework::Content' -  (Package)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Microsoft::Xna::Framework::Content::ContentManager' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Microsoft::Xna::Framework::Game' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Microsoft::Xna::Framework::GameTime' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Microsoft::Xna::Framework::Graphics' -  (Package)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Microsoft::Xna::Framework::Graphics::SpriteBatch' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Microsoft::Xna::Framework::Graphics::SpriteFont' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Microsoft::Xna::Framework::Graphics::Texture2D' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Microsoft::Xna::Framework::Graphics::Viewport' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Microsoft::Xna::Framework::GraphicsDeviceManager' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Microsoft::Xna::Framework::Input' -  (Package)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Microsoft::Xna::Framework::Input::KeyboardState' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Microsoft::Xna::Framework::Matrix' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Microsoft::Xna::Framework::Media' -  (Package)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Microsoft::Xna::Framework::Media::Song' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Microsoft::Xna::Framework::Rectangle' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Microsoft::Xna::Framework::Vector2' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::System' -  (Package)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::System::Collections' -  (Package)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::System::Collections::Generic' -  (Package)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::System::Collections::Generic::List' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::System::Collections::Generic::List&lt;Bullet‎&gt;' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::System::Collections::Generic::List&lt;Collisiontiles‎&gt;' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::System::Single' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3' -  (Package)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Medium" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Bullet' -  (Class)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Bullet::boundingBox' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Bullet::Bullet' -  (Operation)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Bullet::Bullet::newTexture' -  (Parameter)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Bullet::bulletposition' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Bullet::Draw' -  (Operation)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Bullet::Draw::spriteBatch' -  (Parameter)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Bullet::isVisible' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Bullet::origin' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Bullet::speed' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Bullet::texture' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Medium" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Camera2' -  (Class)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Camera2::Camera2' -  (Operation)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Camera2::Camera2::newviewport' -  (Parameter)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Camera2::center' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Camera2::transform' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Camera2::Transform' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Camera2::Update' -  (Operation)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Camera2::Update::position' -  (Parameter)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Camera2::Update::xoffset' -  (Parameter)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Camera2::Update::yoffset' -  (Parameter)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Camera2::viewport' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Medium" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins' -  (Class)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::coin1' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::coin10' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::coin11' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::coin12' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::coin13' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::coin14' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::coin15' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::coin16' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::coin17' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::coin18' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::coin19' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::coin2' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::coin20' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::coin21' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::coin22' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::coin23' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::coin24' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::coin25' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::coin26' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::coin27' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::coin28' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::coin29' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::coin3' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::coin30' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::coin31' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::coin32' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::coin33' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::coin34' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::coin37' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::coin38' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::coin39' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::coin4' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::coin40' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::coin41' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::coin42' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::coin43' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::coin44' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::coin45' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::coin5' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::coin6' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::coin7' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::coin8' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::coin9' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::coinpos1' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::coinpos10' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::coinpos11' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::coinpos12' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::coinpos13' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::coinpos14' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::coinpos15' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::coinpos16' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::coinpos17' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::coinpos18' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::coinpos19' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::coinpos2' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::coinpos20' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::coinpos21' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::coinpos22' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::coinpos23' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::coinpos24' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::coinpos25' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::coinpos26' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::coinpos27' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::coinpos28' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::coinpos29' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::coinpos3' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::coinpos30' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::coinpos31' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::coinpos32' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::coinpos33' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::coinpos34' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::coinpos37' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::coinpos38' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::coinpos39' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::coinpos4' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::coinpos40' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::coinpos41' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::coinpos42' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::coinpos43' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::coinpos44' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::coinpos45' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::coinpos5' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::coinpos6' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::coinpos7' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::coinpos8' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::coinpos9' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::Coins' -  (Operation)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::Draw' -  (Operation)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::Draw::spritbatch' -  (Parameter)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::Initialize' -  (Operation)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::Load' -  (Operation)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::Load::content' -  (Parameter)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::rcoin1' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::rcoin10' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::rcoin11' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::rcoin12' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::rcoin13' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::rcoin14' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::rcoin15' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::rcoin16' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::rcoin17' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::rcoin18' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::rcoin19' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::rcoin2' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::rcoin20' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::rcoin21' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::rcoin22' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::rcoin23' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::rcoin24' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::rcoin25' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::rcoin26' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::rcoin27' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::rcoin28' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::rcoin29' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::rcoin3' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::rcoin30' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::rcoin31' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::rcoin32' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::rcoin33' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::rcoin34' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::rcoin37' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::rcoin38' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::rcoin39' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::rcoin4' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::rcoin40' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::rcoin41' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::rcoin42' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::rcoin43' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::rcoin44' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::rcoin45' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::rcoin5' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::rcoin6' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::rcoin7' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::rcoin8' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::rcoin9' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::Update' -  (Operation)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::Update::currentscore' -  (Parameter)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::Update::gametime' -  (Parameter)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::Update::rectangle' -  (Parameter)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Coins::Update::sound4' -  (Parameter)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Medium" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Collisiontiles' -  (Class)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Collisiontiles::Collisiontiles' -  (Operation)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Collisiontiles::Collisiontiles::i' -  (Parameter)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Collisiontiles::Collisiontiles::newrectangle' -  (Parameter)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Medium" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Game1' -  (Class)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Game1::buttoncolor' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Game1::buttonposition' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Game1::buttontext' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Game1::Camera' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Game1::Draw' -  (Operation)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Game1::Draw::gameTime' -  (Parameter)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Game1::font' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Game1::font2' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Game1::Game1' -  (Operation)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Game1::gameover' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Game1::gamestate' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Game1::graphics' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Game1::Initialize' -  (Operation)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Game1::keyboard' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Game1::LoadContent' -  (Operation)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Game1::mop' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Game1::over' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Game1::overpos' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Game1::reply' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Game1::scorepos' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Game1::sound' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Game1::sound2' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Game1::sound3' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Game1::soundwin' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Game1::spriteBatch' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Game1::timer' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Game1::titlescreen' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Game1::UnloadContent' -  (Operation)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Game1::Update' -  (Operation)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Game1::Update::gameTime' -  (Parameter)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Game1::win' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Game1::winpos' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Game1::winscreen' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Game1::world' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Medium" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::GameState' -  (Enumeration)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::GameState::GameOver' -  (EnumerationLiteral)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::GameState::Playing' -  (EnumerationLiteral)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::GameState::TitleScreen' -  (EnumerationLiteral)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::GameState::wining' -  (EnumerationLiteral)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Medium" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::map' -  (Class)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::map::collisiontiles' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::map::Collisiontiles' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::map::Draw' -  (Operation)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::map::Draw::spritebatch' -  (Parameter)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::map::Generate' -  (Operation)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::map::Generate::map' -  (Parameter)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::map::Generate::size' -  (Parameter)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::map::height' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::map::Height' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::map::map' -  (Operation)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::map::width' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::map::Width' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Medium" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Monsters' -  (Class)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Monsters::Draw' -  (Operation)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Monsters::Draw::spritbatch' -  (Parameter)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Monsters::i1' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Monsters::i10' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Monsters::i11' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Monsters::i2' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Monsters::i3' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Monsters::i4' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Monsters::i5' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Monsters::i6' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Monsters::i7' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Monsters::i8' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Monsters::i9' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Monsters::Load' -  (Operation)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Monsters::Load::content' -  (Parameter)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Monsters::mons1' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Monsters::mons10' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Monsters::mons11' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Monsters::mons2' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Monsters::mons3' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Monsters::mons4' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Monsters::mons5' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Monsters::mons6' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Monsters::mons7' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Monsters::mons8' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Monsters::mons9' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Monsters::monspos1' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Monsters::monspos10' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Monsters::monspos11' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Monsters::monspos2' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Monsters::monspos3' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Monsters::monspos4' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Monsters::monspos5' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Monsters::monspos6' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Monsters::monspos7' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Monsters::monspos8' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Monsters::monspos9' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Monsters::monsterdie1' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Monsters::monsterdie10' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Monsters::monsterdie11' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Monsters::monsterdie2' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Monsters::monsterdie3' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Monsters::monsterdie4' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Monsters::monsterdie5' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Monsters::monsterdie6' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Monsters::monsterdie7' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Monsters::monsterdie8' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Monsters::monsterdie9' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Monsters::Monsters' -  (Operation)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Monsters::rmons1' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Monsters::rmons10' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Monsters::rmons11' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Monsters::rmons2' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Monsters::rmons3' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Monsters::rmons4' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Monsters::rmons5' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Monsters::rmons6' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Monsters::rmons7' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Monsters::rmons8' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Monsters::rmons9' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Monsters::Update' -  (Operation)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Monsters::Update::currentscore' -  (Parameter)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Monsters::Update::gametime' -  (Parameter)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Monsters::Update::playerdie' -  (Parameter)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Monsters::Update::position' -  (Parameter)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Monsters::Update::rectangle' -  (Parameter)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Medium" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Program' -  (Class)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Program::Main' -  (Operation)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::Program::Main::args' -  (Parameter)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Medium" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::RectangleHelper' -  (Class)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::RectangleHelper::TouchBottomOf' -  (Operation)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::RectangleHelper::TouchBottomOf::r1' -  (Parameter)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::RectangleHelper::TouchBottomOf::r2' -  (Parameter)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::RectangleHelper::TouchLeftOf' -  (Operation)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::RectangleHelper::TouchLeftOf::r1' -  (Parameter)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::RectangleHelper::TouchLeftOf::r2' -  (Parameter)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::RectangleHelper::TouchRightOf' -  (Operation)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::RectangleHelper::TouchRightOf::r1' -  (Parameter)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::RectangleHelper::TouchRightOf::r2' -  (Parameter)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::RectangleHelper::TouchTopOf' -  (Operation)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::RectangleHelper::TouchTopOf::r1' -  (Parameter)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::RectangleHelper::TouchTopOf::r2' -  (Parameter)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Medium" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::tiles' -  (Class)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::tiles::content' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::tiles::Content' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::tiles::Draw' -  (Operation)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::tiles::Draw::spritebatch' -  (Parameter)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::tiles::rectangle' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::tiles::Rectangle' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::tiles::texture' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::tiles::tiles' -  (Operation)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Medium" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::world' -  (Class)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::world::bulletDelay' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::world::bulletList' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::world::bulletrectangle' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::world::bulletTexture' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::world::coins' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::world::collision' -  (Operation)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::world::collision::newrectangle' -  (Parameter)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::world::collision::xoffset' -  (Parameter)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::world::collision::yoffset' -  (Parameter)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::world::currentscore' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::world::Draw' -  (Operation)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::world::Draw::spritbatch' -  (Parameter)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::world::hasjumped' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::world::Initialize' -  (Operation)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::world::Input' -  (Operation)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::world::Input::gametime' -  (Parameter)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::world::Input::sound' -  (Parameter)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::world::kal3a' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::world::kal3a2' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::world::kal3apos' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::world::kal3apos2' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::world::Load' -  (Operation)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::world::Load::content' -  (Parameter)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::world::monster' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::world::playerdie' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::world::position' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::world::Position' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::world::rectangle' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::world::rkal3a' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::world::rkal3a2' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::world::Score' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::world::Shoot' -  (Operation)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::world::sound4' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::world::texture' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::world::Update' -  (Operation)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::world::Update::game1' -  (Parameter)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::world::Update::gametime' -  (Parameter)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::world::Update::sound' -  (Parameter)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::world::UpdateBullets' -  (Operation)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::world::velocity' -  (Property)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::training3::world::world' -  (Operation)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'String' -  (PrimitiveType)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: ModelingProject1::training3::Collisiontiles to ModelingProject1::training3::tiles (Generalization)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: ModelingProject1::training3::Game1 to ModelingProject1::Microsoft::Xna::Framework::Game (Generalization)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: ModelingProject1::training3::map to ModelingProject1::System::Collections::Generic::List&lt;Collisiontiles‎&gt; (Association)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: ModelingProject1::training3::tiles to ModelingProject1::Microsoft::Xna::Framework::Content::ContentManager (Association)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: ModelingProject1::training3::tiles to ModelingProject1::Microsoft::Xna::Framework::Rectangle (Association)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: ModelingProject1::training3::world to ModelingProject1::Microsoft::Xna::Framework::Vector2 (Association)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: ModelingProject1::training3::world to ModelingProject1::System::Single (Association)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: ModelingProject1::training3::Camera2 to ModelingProject1::Microsoft::Xna::Framework::Matrix (Association)" />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="High" Text="(12) type(s) fully reverse engineered." />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="High" Text="(19) type(s) partially reverse engineered.  These types were not included in the original selection so their full definitions are not reverse engineered.  Instead, this shallow operation has simply ensured these types exist in the UML model because they are needed in order to fully describe other elements." />
+  <Message Timestamp="2015-05-09T03:45:41" Importance="High" Text="The reverse engineering operation completed with (0) error(s), and (0) warning(s)." />
+</Log>

@@ -1,0 +1,329 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>images\mario.PNG</Source>
+      <Name>images\mario</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\MARIO\training3\training3\bin\x86\Debug\Content\images\mario.xnb</Output>
+      <Time>2015-05-02T06:31:50+02:00</Time>
+    </Item>
+    <Item>
+      <Source>images\Capture3.PNG</Source>
+      <Name>images\Capture3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\MARIO\training3\training3\bin\x86\Debug\Content\images\Capture3.xnb</Output>
+      <Time>2015-04-19T02:30:52+02:00</Time>
+    </Item>
+    <Item>
+      <Source>images\char.jpg</Source>
+      <Name>images\char</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\MARIO\training3\training3\bin\x86\Debug\Content\images\char.xnb</Output>
+      <Time>2015-04-19T02:30:52+02:00</Time>
+    </Item>
+    <Item>
+      <Source>images\tile.PNG</Source>
+      <Name>images\tile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\MARIO\training3\training3\bin\x86\Debug\Content\images\tile.xnb</Output>
+      <Time>2015-04-19T02:30:52+02:00</Time>
+    </Item>
+    <Item>
+      <Source>images\tree.PNG</Source>
+      <Name>images\tree</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\MARIO\training3\training3\bin\x86\Debug\Content\images\tree.xnb</Output>
+      <Time>2015-04-19T02:30:52+02:00</Time>
+    </Item>
+    <Item>
+      <Source>images\tree2.PNG</Source>
+      <Name>images\tree2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\MARIO\training3\training3\bin\x86\Debug\Content\images\tree2.xnb</Output>
+      <Time>2015-04-19T02:30:52+02:00</Time>
+    </Item>
+    <Item>
+      <Source>images\coin3.PNG</Source>
+      <Name>images\coin3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\MARIO\training3\training3\bin\x86\Debug\Content\images\coin3.xnb</Output>
+      <Time>2015-04-30T16:23:54+02:00</Time>
+    </Item>
+    <Item>
+      <Source>images\coin4.PNG</Source>
+      <Name>images\coin4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\MARIO\training3\training3\bin\x86\Debug\Content\images\coin4.xnb</Output>
+      <Time>2015-04-30T16:01:16+02:00</Time>
+    </Item>
+    <Item>
+      <Source>images\monster2.PNG</Source>
+      <Name>images\monster2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\MARIO\training3\training3\bin\x86\Debug\Content\images\monster2.xnb</Output>
+      <Time>2015-05-02T03:14:36+02:00</Time>
+    </Item>
+    <Item>
+      <Source>images\kal3a.png</Source>
+      <Name>images\kal3a</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\MARIO\training3\training3\bin\x86\Debug\Content\images\kal3a.xnb</Output>
+      <Time>2015-05-02T06:22:36+02:00</Time>
+    </Item>
+    <Item>
+      <Source>images\die monster.PNG</Source>
+      <Name>images\die monster</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\MARIO\training3\training3\bin\x86\Debug\Content\images\die monster.xnb</Output>
+      <Time>2015-05-03T00:22:00+02:00</Time>
+    </Item>
+    <Item>
+      <Source>images\Jumpleft.PNG</Source>
+      <Name>images\Jumpleft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\MARIO\training3\training3\bin\x86\Debug\Content\images\Jumpleft.xnb</Output>
+      <Time>2015-05-02T23:30:32+02:00</Time>
+    </Item>
+    <Item>
+      <Source>images\Jumpright.PNG</Source>
+      <Name>images\Jumpright</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\MARIO\training3\training3\bin\x86\Debug\Content\images\Jumpright.xnb</Output>
+      <Time>2015-05-02T23:32:10+02:00</Time>
+    </Item>
+    <Item>
+      <Source>images\stand.PNG</Source>
+      <Name>images\stand</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\MARIO\training3\training3\bin\x86\Debug\Content\images\stand.xnb</Output>
+      <Time>2015-05-02T23:12:10+02:00</Time>
+    </Item>
+    <Item>
+      <Source>images\Standleft.PNG</Source>
+      <Name>images\Standleft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\MARIO\training3\training3\bin\x86\Debug\Content\images\Standleft.xnb</Output>
+      <Time>2015-05-02T23:18:30+02:00</Time>
+    </Item>
+    <Item>
+      <Source>images\download (1).jpg</Source>
+      <Name>images\download (1)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\MARIO\training3\training3\bin\x86\Debug\Content\images\download (1).xnb</Output>
+      <Time>2015-05-03T02:45:50+02:00</Time>
+    </Item>
+    <Item>
+      <Source>images\die.png</Source>
+      <Name>images\die</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\MARIO\training3\training3\bin\x86\Debug\Content\images\die.xnb</Output>
+      <Time>2015-05-03T03:04:46+02:00</Time>
+    </Item>
+    <Item>
+      <Source>images\maxresdefault.jpg</Source>
+      <Name>images\maxresdefault</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\MARIO\training3\training3\bin\x86\Debug\Content\images\maxresdefault.xnb</Output>
+      <Time>2015-05-05T20:56:10+02:00</Time>
+    </Item>
+    <Item>
+      <Source>images\tile2.PNG</Source>
+      <Name>images\tile2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\MARIO\training3\training3\bin\x86\Debug\Content\images\tile2.xnb</Output>
+      <Time>2015-05-05T11:25:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>images\tile1.PNG</Source>
+      <Name>images\tile1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\MARIO\training3\training3\bin\x86\Debug\Content\images\tile1.xnb</Output>
+      <Time>2015-05-05T11:46:26+02:00</Time>
+    </Item>
+    <Item>
+      <Source>images\kale3a2.PNG</Source>
+      <Name>images\kale3a2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\MARIO\training3\training3\bin\x86\Debug\Content\images\kale3a2.xnb</Output>
+      <Time>2015-05-08T05:42:56+02:00</Time>
+    </Item>
+    <Item>
+      <Source>images\win.jpg</Source>
+      <Name>images\win</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\MARIO\training3\training3\bin\x86\Debug\Content\images\win.xnb</Output>
+      <Time>2015-05-08T06:05:20+02:00</Time>
+    </Item>
+    <Item>
+      <Source>images\gameover2.png</Source>
+      <Name>images\gameover2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\MARIO\training3\training3\bin\x86\Debug\Content\images\gameover2.xnb</Output>
+      <Time>2015-05-08T15:06:06+02:00</Time>
+    </Item>
+    <Item>
+      <Source>images\start game.png</Source>
+      <Name>images\start game</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\MARIO\training3\training3\bin\x86\Debug\Content\images\start game.xnb</Output>
+      <Time>2015-05-08T15:26:38+02:00</Time>
+    </Item>
+    <Item>
+      <Source>font\font1.spritefont</Source>
+      <Name>font\font1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\MARIO\training3\training3\bin\x86\Debug\Content\font\font1.xnb</Output>
+      <Time>2015-05-08T06:19:36+02:00</Time>
+    </Item>
+    <Item>
+      <Source>font\font2.spritefont</Source>
+      <Name>font\font2</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\MARIO\training3\training3\bin\x86\Debug\Content\font\font2.xnb</Output>
+      <Time>2015-05-08T06:20:14+02:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds effect\mario die.mp3</Source>
+      <Name>sounds effect\mario die</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\MARIO\training3\training3\bin\x86\Debug\Content\sounds effect\mario die.xnb</Output>
+      <Extra>E:\MARIO\training3\training3\bin\x86\Debug\Content\sounds effect\mario die.wma</Extra>
+      <Time>2015-05-03T19:48:14+02:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds effect\mario world.mp3</Source>
+      <Name>sounds effect\mario world</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\MARIO\training3\training3\bin\x86\Debug\Content\sounds effect\mario world.xnb</Output>
+      <Extra>E:\MARIO\training3\training3\bin\x86\Debug\Content\sounds effect\mario world.wma</Extra>
+      <Time>2015-05-03T20:31:48+02:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds effect\mario win.mp3</Source>
+      <Name>sounds effect\mario win</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\MARIO\training3\training3\bin\x86\Debug\Content\sounds effect\mario win.xnb</Output>
+      <Extra>E:\MARIO\training3\training3\bin\x86\Debug\Content\sounds effect\mario win.wma</Extra>
+      <Time>2015-05-08T05:34:12+02:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds effect\mario jump.wav</Source>
+      <Name>sounds effect\mario jump</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\MARIO\training3\training3\bin\x86\Debug\Content\sounds effect\mario jump.xnb</Output>
+      <Time>2015-05-04T13:43:24+02:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds effect\mario coin.wav</Source>
+      <Name>sounds effect\mario coin</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\MARIO\training3\training3\bin\x86\Debug\Content\sounds effect\mario coin.xnb</Output>
+      <Time>2015-05-05T02:42:10+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{68E78264-B9A3-45FE-A82D-888CA9681522}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>E:\MARIO\training3\training3Content\</RootDirectory>
+      <LoggerRootDirectory>E:\MARIO\training3\training3\</LoggerRootDirectory>
+      <IntermediateDirectory>E:\MARIO\training3\training3\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>E:\MARIO\training3\training3\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-04-02T23:19:02.5967331+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,113 @@
+C:\Users\khaled\documents\visual studio 2013\Projects\xna\training3\training3\training3\bin\x86\Debug\training3.exe
+C:\Users\khaled\documents\visual studio 2013\Projects\xna\training3\training3\training3\bin\x86\Debug\training3.pdb
+C:\Users\khaled\documents\visual studio 2013\Projects\xna\training3\training3\training3\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\khaled\documents\visual studio 2013\Projects\xna\training3\training3\training3\obj\x86\Debug\training3.exe
+C:\Users\khaled\documents\visual studio 2013\Projects\xna\training3\training3\training3\obj\x86\Debug\training3.pdb
+C:\Users\khaled\Documents\Visual Studio 2013\Projects\xna\training3\training3\training3\obj\x86\Debug\mario game.csprojResolveAssemblyReference.cache
+C:\Users\khaled\Documents\Visual Studio 2013\Projects\xna\training3\training3\training3\bin\x86\Debug\Content\font\font1.xnb
+C:\Users\khaled\Documents\Visual Studio 2013\Projects\xna\training3\training3\training3\bin\x86\Debug\Content\images\mario.xnb
+C:\Users\khaled\Documents\Visual Studio 2013\Projects\xna\training3\training3\training3\bin\x86\Debug\Content\images\Capture3.xnb
+C:\Users\khaled\Documents\Visual Studio 2013\Projects\xna\training3\training3\training3\bin\x86\Debug\Content\images\char.xnb
+C:\Users\khaled\Documents\Visual Studio 2013\Projects\xna\training3\training3\training3\bin\x86\Debug\Content\images\tile.xnb
+C:\Users\khaled\Documents\Visual Studio 2013\Projects\xna\training3\training3\training3\bin\x86\Debug\Content\images\tree.xnb
+C:\Users\khaled\Documents\Visual Studio 2013\Projects\xna\training3\training3\training3\bin\x86\Debug\Content\images\tree2.xnb
+C:\Users\khaled\Documents\Visual Studio 2013\Projects\xna\training3\training3\training3\bin\x86\Debug\Content\images\tile1.xnb
+C:\Users\khaled\Documents\Visual Studio 2013\Projects\xna\training3\training3\training3\bin\x86\Debug\Content\images\tile2.xnb
+C:\Users\khaled\Documents\Visual Studio 2013\Projects\xna\training3\training3\training3\bin\x86\Debug\Content\images\coin3.xnb
+C:\Users\khaled\Documents\Visual Studio 2013\Projects\xna\training3\training3\training3\bin\x86\Debug\Content\images\coin4.xnb
+C:\Users\khaled\Documents\Visual Studio 2013\Projects\xna\training3\training3\training3\bin\x86\Debug\Content\images\monster2.xnb
+C:\Users\khaled\Documents\Visual Studio 2013\Projects\xna\training3\training3\training3\bin\x86\Debug\Content\images\kal3a.xnb
+C:\Users\khaled\Documents\Visual Studio 2013\Projects\xna\training3\training3\training3\bin\x86\Debug\Content\images\die monster.xnb
+C:\Users\khaled\Documents\Visual Studio 2013\Projects\xna\training3\training3\training3\bin\x86\Debug\Content\images\Jumpleft.xnb
+C:\Users\khaled\Documents\Visual Studio 2013\Projects\xna\training3\training3\training3\bin\x86\Debug\Content\images\Jumpright.xnb
+C:\Users\khaled\Documents\Visual Studio 2013\Projects\xna\training3\training3\training3\bin\x86\Debug\Content\images\stand.xnb
+C:\Users\khaled\Documents\Visual Studio 2013\Projects\xna\training3\training3\training3\bin\x86\Debug\Content\images\Standleft.xnb
+C:\Users\khaled\Documents\Visual Studio 2013\Projects\xna\training3\training3\training3\bin\x86\Debug\Content\images\download (1).xnb
+C:\Users\khaled\Documents\Visual Studio 2013\Projects\xna\training3\training3\training3\bin\x86\Debug\Content\images\die.xnb
+C:\Users\khaled\Documents\Visual Studio 2013\Projects\xna\training3\training3\training3\bin\x86\Debug\Content\images\gameover.xnb
+C:\Users\khaled\Documents\Visual Studio 2013\Projects\xna\training3\training3\training3\bin\x86\Debug\Content\images\maxresdefault.xnb
+C:\Users\khaled\Documents\Visual Studio 2013\Projects\xna\training3\training3\training3\bin\x86\Debug\Content\sounds effect\mario die.xnb
+C:\Users\khaled\Documents\Visual Studio 2013\Projects\xna\training3\training3\training3\bin\x86\Debug\Content\sounds effect\mario die.wma
+C:\Users\khaled\Documents\Visual Studio 2013\Projects\xna\training3\training3\training3\bin\x86\Debug\Content\sounds effect\mario world.xnb
+C:\Users\khaled\Documents\Visual Studio 2013\Projects\xna\training3\training3\training3\bin\x86\Debug\Content\sounds effect\mario world.wma
+C:\Users\khaled\Documents\Visual Studio 2013\Projects\xna\training3\training3\training3\bin\x86\Debug\Content\sounds effect\mario jump.xnb
+C:\Users\khaled\Documents\Visual Studio 2013\Projects\xna\MARIO\training3\training3\bin\x86\Debug\Content\images\mario.xnb
+C:\Users\khaled\Documents\Visual Studio 2013\Projects\xna\MARIO\training3\training3\bin\x86\Debug\Content\images\Capture3.xnb
+C:\Users\khaled\Documents\Visual Studio 2013\Projects\xna\MARIO\training3\training3\bin\x86\Debug\Content\images\char.xnb
+C:\Users\khaled\Documents\Visual Studio 2013\Projects\xna\MARIO\training3\training3\bin\x86\Debug\Content\images\tree.xnb
+C:\Users\khaled\Documents\Visual Studio 2013\Projects\xna\MARIO\training3\training3\bin\x86\Debug\Content\images\tree2.xnb
+C:\Users\khaled\Documents\Visual Studio 2013\Projects\xna\MARIO\training3\training3\bin\x86\Debug\Content\images\tile2.xnb
+C:\Users\khaled\Documents\Visual Studio 2013\Projects\xna\MARIO\training3\training3\bin\x86\Debug\Content\images\coin3.xnb
+C:\Users\khaled\Documents\Visual Studio 2013\Projects\xna\MARIO\training3\training3\bin\x86\Debug\Content\images\coin4.xnb
+C:\Users\khaled\Documents\Visual Studio 2013\Projects\xna\MARIO\training3\training3\bin\x86\Debug\Content\images\monster2.xnb
+C:\Users\khaled\Documents\Visual Studio 2013\Projects\xna\MARIO\training3\training3\bin\x86\Debug\Content\images\kal3a.xnb
+C:\Users\khaled\Documents\Visual Studio 2013\Projects\xna\MARIO\training3\training3\bin\x86\Debug\Content\images\die monster.xnb
+C:\Users\khaled\Documents\Visual Studio 2013\Projects\xna\MARIO\training3\training3\bin\x86\Debug\Content\images\Jumpleft.xnb
+C:\Users\khaled\Documents\Visual Studio 2013\Projects\xna\MARIO\training3\training3\bin\x86\Debug\Content\images\Jumpright.xnb
+C:\Users\khaled\Documents\Visual Studio 2013\Projects\xna\MARIO\training3\training3\bin\x86\Debug\Content\images\stand.xnb
+C:\Users\khaled\Documents\Visual Studio 2013\Projects\xna\MARIO\training3\training3\bin\x86\Debug\Content\images\Standleft.xnb
+C:\Users\khaled\Documents\Visual Studio 2013\Projects\xna\MARIO\training3\training3\bin\x86\Debug\Content\images\download (1).xnb
+C:\Users\khaled\Documents\Visual Studio 2013\Projects\xna\MARIO\training3\training3\bin\x86\Debug\Content\images\die.xnb
+C:\Users\khaled\Documents\Visual Studio 2013\Projects\xna\MARIO\training3\training3\bin\x86\Debug\Content\images\maxresdefault.xnb
+C:\Users\khaled\Documents\Visual Studio 2013\Projects\xna\MARIO\training3\training3\bin\x86\Debug\Content\font\font1.xnb
+C:\Users\khaled\Documents\Visual Studio 2013\Projects\xna\MARIO\training3\training3\bin\x86\Debug\Content\sounds effect\mario die.xnb
+C:\Users\khaled\Documents\Visual Studio 2013\Projects\xna\MARIO\training3\training3\bin\x86\Debug\Content\sounds effect\mario world.xnb
+C:\Users\khaled\Documents\Visual Studio 2013\Projects\xna\MARIO\training3\training3\bin\x86\Debug\Content\sounds effect\mario jump.xnb
+C:\Users\khaled\Documents\Visual Studio 2013\Projects\xna\MARIO\training3\training3\bin\x86\Debug\Content\sounds effect\mario die.wma
+C:\Users\khaled\Documents\Visual Studio 2013\Projects\xna\MARIO\training3\training3\bin\x86\Debug\Content\sounds effect\mario world.wma
+C:\Users\khaled\Documents\Visual Studio 2013\Projects\xna\MARIO\training3\training3\bin\x86\Debug\training3.exe
+C:\Users\khaled\Documents\Visual Studio 2013\Projects\xna\MARIO\training3\training3\bin\x86\Debug\training3.pdb
+C:\Users\khaled\Documents\Visual Studio 2013\Projects\xna\MARIO\training3\training3\obj\x86\Debug\mario game.csprojResolveAssemblyReference.cache
+C:\Users\khaled\Documents\Visual Studio 2013\Projects\xna\MARIO\training3\training3\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\khaled\Documents\Visual Studio 2013\Projects\xna\MARIO\training3\training3\obj\x86\Debug\training3.exe
+C:\Users\khaled\Documents\Visual Studio 2013\Projects\xna\MARIO\training3\training3\obj\x86\Debug\training3.pdb
+C:\Users\khaled\Documents\Visual Studio 2013\Projects\xna\MARIO\training3\training3\bin\x86\Debug\Content\sounds effect\mario coin.xnb
+C:\Users\khaled\Documents\Visual Studio 2013\Projects\xna\MARIO\training3\training3\bin\x86\Debug\Content\images\tile1.xnb
+C:\Users\khaled\Documents\Visual Studio 2013\Projects\xna\MARIO\training3\training3\bin\x86\Debug\Content\images\tile.xnb
+C:\Users\khaled\Documents\Visual Studio 2013\Projects\xna\MARIO\training3\training3\bin\x86\Debug\Content\sounds effect\mario win.xnb
+C:\Users\khaled\Documents\Visual Studio 2013\Projects\xna\MARIO\training3\training3\bin\x86\Debug\Content\sounds effect\mario win.wma
+C:\Users\khaled\Documents\Visual Studio 2013\Projects\xna\MARIO\training3\training3\bin\x86\Debug\Content\images\kale3a2.xnb
+C:\Users\khaled\Documents\Visual Studio 2013\Projects\xna\MARIO\training3\training3\bin\x86\Debug\Content\images\win.xnb
+C:\Users\khaled\Documents\Visual Studio 2013\Projects\xna\MARIO\training3\training3\bin\x86\Debug\Content\font\font2.xnb
+C:\Users\khaled\Documents\Visual Studio 2013\Projects\xna\MARIO\training3\training3\bin\x86\Debug\Content\images\gameover2.xnb
+C:\Users\khaled\Documents\Visual Studio 2013\Projects\xna\MARIO\training3\training3\bin\x86\Debug\Content\images\start game.xnb
+E:\MARIO\training3\training3\bin\x86\Debug\Content\images\mario.xnb
+E:\MARIO\training3\training3\bin\x86\Debug\Content\images\Capture3.xnb
+E:\MARIO\training3\training3\bin\x86\Debug\Content\images\char.xnb
+E:\MARIO\training3\training3\bin\x86\Debug\Content\images\tile.xnb
+E:\MARIO\training3\training3\bin\x86\Debug\Content\images\tree.xnb
+E:\MARIO\training3\training3\bin\x86\Debug\Content\images\tree2.xnb
+E:\MARIO\training3\training3\bin\x86\Debug\Content\images\coin3.xnb
+E:\MARIO\training3\training3\bin\x86\Debug\Content\images\coin4.xnb
+E:\MARIO\training3\training3\bin\x86\Debug\Content\images\monster2.xnb
+E:\MARIO\training3\training3\bin\x86\Debug\Content\images\kal3a.xnb
+E:\MARIO\training3\training3\bin\x86\Debug\Content\images\die monster.xnb
+E:\MARIO\training3\training3\bin\x86\Debug\Content\images\Jumpleft.xnb
+E:\MARIO\training3\training3\bin\x86\Debug\Content\images\Jumpright.xnb
+E:\MARIO\training3\training3\bin\x86\Debug\Content\images\stand.xnb
+E:\MARIO\training3\training3\bin\x86\Debug\Content\images\Standleft.xnb
+E:\MARIO\training3\training3\bin\x86\Debug\Content\images\download (1).xnb
+E:\MARIO\training3\training3\bin\x86\Debug\Content\images\die.xnb
+E:\MARIO\training3\training3\bin\x86\Debug\Content\images\maxresdefault.xnb
+E:\MARIO\training3\training3\bin\x86\Debug\Content\images\tile2.xnb
+E:\MARIO\training3\training3\bin\x86\Debug\Content\images\tile1.xnb
+E:\MARIO\training3\training3\bin\x86\Debug\Content\images\kale3a2.xnb
+E:\MARIO\training3\training3\bin\x86\Debug\Content\images\win.xnb
+E:\MARIO\training3\training3\bin\x86\Debug\Content\images\gameover2.xnb
+E:\MARIO\training3\training3\bin\x86\Debug\Content\images\start game.xnb
+E:\MARIO\training3\training3\bin\x86\Debug\Content\font\font1.xnb
+E:\MARIO\training3\training3\bin\x86\Debug\Content\font\font2.xnb
+E:\MARIO\training3\training3\bin\x86\Debug\Content\sounds effect\mario die.xnb
+E:\MARIO\training3\training3\bin\x86\Debug\Content\sounds effect\mario world.xnb
+E:\MARIO\training3\training3\bin\x86\Debug\Content\sounds effect\mario win.xnb
+E:\MARIO\training3\training3\bin\x86\Debug\Content\sounds effect\mario jump.xnb
+E:\MARIO\training3\training3\bin\x86\Debug\Content\sounds effect\mario coin.xnb
+E:\MARIO\training3\training3\bin\x86\Debug\Content\sounds effect\mario die.wma
+E:\MARIO\training3\training3\bin\x86\Debug\Content\sounds effect\mario world.wma
+E:\MARIO\training3\training3\bin\x86\Debug\Content\sounds effect\mario win.wma
+E:\MARIO\training3\training3\bin\x86\Debug\training3.exe
+E:\MARIO\training3\training3\bin\x86\Debug\training3.pdb
+E:\MARIO\training3\training3\obj\x86\Debug\mario game.csprojResolveAssemblyReference.cache
+E:\MARIO\training3\training3\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\MARIO\training3\training3\obj\x86\Debug\training3.exe
+E:\MARIO\training3\training3\obj\x86\Debug\training3.pdb

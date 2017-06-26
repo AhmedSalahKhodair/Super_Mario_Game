@@ -1,0 +1,10 @@
+c:\users\khaled\documents\visual studio 2013\Projects\xna\training3\training3\training3\bin\x86\Debug\Content\WizardSquare.xnb
+c:\users\khaled\documents\visual studio 2013\Projects\xna\training3\training3\training3\bin\x86\Debug\training3.exe
+c:\users\khaled\documents\visual studio 2013\Projects\xna\training3\training3\training3\bin\x86\Debug\training3.pdb
+c:\users\khaled\documents\visual studio 2013\Projects\xna\training3\training3\training3\obj\x86\Debug\training3.csprojResolveAssemblyReference.cache
+c:\users\khaled\documents\visual studio 2013\Projects\xna\training3\training3\training3\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\khaled\documents\visual studio 2013\Projects\xna\training3\training3\training3\obj\x86\Debug\training3.exe
+c:\users\khaled\documents\visual studio 2013\Projects\xna\training3\training3\training3\obj\x86\Debug\training3.pdb
+c:\users\khaled\documents\visual studio 2013\Projects\xna\training3\training3\training3\bin\x86\Debug\Content\Fireball.xnb
+C:\Users\khaled\documents\visual studio 2013\Projects\xna\training3\training3\training3\bin\x86\Debug\Content\stand.xnb
+C:\Users\khaled\documents\visual studio 2013\Projects\xna\training3\training3\training3\bin\x86\Debug\Content\Capture.xnb

@@ -1,0 +1,358 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+using Microsoft.Xna.Framework;
+using Microsoft.Xna.Framework.Content;
+using Microsoft.Xna.Framework.Graphics;
+using Microsoft.Xna.Framework.Input;
+using Microsoft.Xna.Framework.Media;
+namespace training3
+{
+  public  class player
+    {
+
+        private Texture2D texture;
+        private Vector2 position=new Vector2(60,300);
+        private Vector2 velocity;
+        private Rectangle rectangle;
+        private bool hasjumped = false;
+        public  float currentscore = 0;
+        #region coins
+        private Texture2D coin1;
+        private Vector2 coinpos1 = new Vector2(207,165);
+        private Rectangle rcoin1;
+        private Texture2D coin2;
+        private Vector2 coinpos2 = new Vector2(320,165);
+        private Rectangle rcoin2;
+        private Texture2D coin3;
+        private Vector2 coinpos3 = new Vector2(380, 110);
+        private Rectangle rcoin3;
+        private Texture2D coin4;
+        private Vector2 coinpos4 = new Vector2(440, 165);
+        private Rectangle rcoin4;
+        private Texture2D coin5;
+        private Vector2 coinpos5 = new Vector2(670, 85);
+        private Rectangle rcoin5;
+        private Texture2D coin6;
+        private Vector2 coinpos6 = new Vector2(850, 50);
+        private Rectangle rcoin6;
+        private Texture2D coin7;
+        private Vector2 coinpos7 = new Vector2(1200, 50);
+        private Rectangle rcoin7;
+        private Texture2D coin8;
+        private Vector2 coinpos8 = new Vector2(1400, 50);
+        private Rectangle rcoin8;
+        private Texture2D coin9;
+        private Vector2 coinpos9 = new Vector2(1625, 330);
+        private Rectangle rcoin9;
+        private Texture2D coin10;
+        private Vector2 coinpos10 = new Vector2(2008,290);
+        private Rectangle rcoin10;
+        private Texture2D coin11;
+        private Vector2 coinpos11 = new Vector2(2040, 250);
+        private Rectangle rcoin11;
+        private Texture2D coin12;
+        private Vector2 coinpos12 = new Vector2(2082, 210);
+        private Rectangle rcoin12;
+        private Texture2D coin13;
+        private Vector2 coinpos13 = new Vector2(2127, 170);
+        private Rectangle rcoin13;
+        private Texture2D coin14;
+        private Vector2 coinpos14 = new Vector2(2172, 130);
+        private Rectangle rcoin14;
+        private Texture2D coin15;
+        private Vector2 coinpos15 = new Vector2(2280, 90);
+        private Rectangle rcoin15;
+        private Texture2D coin16;
+        private Vector2 coinpos16 = new Vector2(2490, 90);
+        private Rectangle rcoin16;
+        private Texture2D coin17;
+        private Vector2 coinpos17 = new Vector2(2650, 90);
+        private Rectangle rcoin17;
+        private Texture2D coin18;
+        private Vector2 coinpos18 = new Vector2(2545,332);
+        private Rectangle rcoin18;
+        private Texture2D coin19;
+        private Vector2 coinpos19 = new Vector2(3400, 332);
+        private Rectangle rcoin19;
+        private Texture2D coin20;
+        private Vector2 coinpos20 = new Vector2(3722,90);
+        private Rectangle rcoin20;
+        #endregion
+        //#region monsters
+        //public Texture2D mons1;
+        //public Vector2 monspos1 = new Vector2(200, 300);
+        //public Rectangle rmons1;
+        //#endregion
+        Texture2D textur2;
+        float timer = 0f;
+        float interval = 300f;
+        int currentFrame = 1;
+        int spriteWidth = 10;
+        int spriteHeight = 10;
+        Rectangle sourceRect;
+        Vector2 origin;
+        public Vector2 Position 
+        {
+            get { return position; }
+        }
+        public float Score
+        {
+            get { return currentscore; }
+            set { currentscore = value; }
+        }
+        public player()
+        { }
+        public void Load(ContentManager content)
+        {
+            texture = content.Load<Texture2D>("mario");
+            #region loadcoins
+            coin1 = content.Load<Texture2D>("coin3");
+            coin2 = content.Load<Texture2D>("coin3");
+            coin3 = content.Load<Texture2D>("coin3");
+            coin4 = content.Load<Texture2D>("coin3");
+            coin5 = content.Load<Texture2D>("coin3");
+            coin6 = content.Load<Texture2D>("coin3");
+            coin7 = content.Load<Texture2D>("coin3");
+            coin8 = content.Load<Texture2D>("coin3");
+            coin9 = content.Load<Texture2D>("coin3");
+            coin10 = content.Load<Texture2D>("coin3");
+            coin11 = content.Load<Texture2D>("coin3");
+            coin12 = content.Load<Texture2D>("coin3");
+            coin13 = content.Load<Texture2D>("coin3");
+            coin14 = content.Load<Texture2D>("coin3");
+            coin15 = content.Load<Texture2D>("coin3");
+            coin16 = content.Load<Texture2D>("coin3");
+            coin17 = content.Load<Texture2D>("coin3");
+            coin18 = content.Load<Texture2D>("coin3");
+            coin19 = content.Load<Texture2D>("coin3");
+            coin20 = content.Load<Texture2D>("coin3");
+            #endregion
+            //#region loadmonsters
+            //mons1 = content.Load<Texture2D>("monsters");
+            //#endregion
+            textur2 = content.Load<Texture2D>("monsters");
+        }
+        public void Update(GameTime gametime)
+        {
+            position += velocity;
+            #region update coins
+            rectangle = new Rectangle((int)position.X, (int)position.Y, texture.Width, texture.Height);
+            rcoin1 = new Rectangle((int)coinpos1.X, (int)coinpos1.Y, coin1.Width, coin1.Height);
+            rcoin2 = new Rectangle((int)coinpos2.X, (int)coinpos2.Y, coin2.Width, coin2.Height);
+            rcoin3 = new Rectangle((int)coinpos3.X, (int)coinpos3.Y, coin3.Width, coin3.Height);
+            rcoin4 = new Rectangle((int)coinpos4.X, (int)coinpos4.Y, coin4.Width, coin4.Height);
+            rcoin5 = new Rectangle((int)coinpos5.X, (int)coinpos5.Y, coin5.Width, coin5.Height);
+            rcoin6 = new Rectangle((int)coinpos6.X, (int)coinpos6.Y, coin6.Width, coin6.Height);
+            rcoin7 = new Rectangle((int)coinpos7.X, (int)coinpos7.Y, coin7.Width, coin7.Height);
+            rcoin8 = new Rectangle((int)coinpos8.X, (int)coinpos8.Y, coin8.Width, coin8.Height);
+            rcoin9 = new Rectangle((int)coinpos9.X, (int)coinpos9.Y, coin9.Width, coin9.Height);
+            rcoin10 = new Rectangle((int)coinpos10.X, (int)coinpos10.Y, coin10.Width, coin10.Height);
+            rcoin11 = new Rectangle((int)coinpos11.X, (int)coinpos11.Y, coin11.Width, coin11.Height);
+            rcoin12 = new Rectangle((int)coinpos12.X, (int)coinpos12.Y, coin12.Width, coin12.Height);
+            rcoin13 = new Rectangle((int)coinpos13.X, (int)coinpos13.Y, coin13.Width, coin13.Height);
+            rcoin14 = new Rectangle((int)coinpos14.X, (int)coinpos14.Y, coin14.Width, coin14.Height);
+            rcoin15 = new Rectangle((int)coinpos15.X, (int)coinpos15.Y, coin15.Width, coin15.Height);
+            rcoin16 = new Rectangle((int)coinpos16.X, (int)coinpos16.Y, coin16.Width, coin16.Height);
+            rcoin17 = new Rectangle((int)coinpos17.X, (int)coinpos17.Y, coin17.Width, coin17.Height);
+            rcoin18 = new Rectangle((int)coinpos18.X, (int)coinpos18.Y, coin18.Width, coin18.Height);
+            rcoin19 = new Rectangle((int)coinpos19.X, (int)coinpos19.Y, coin19.Width, coin19.Height);
+            rcoin20 = new Rectangle((int)coinpos20.X, (int)coinpos20.Y, coin20.Width, coin20.Height);
+            #endregion
+            //#region update monsters
+            //rmons1 = new Rectangle((int)monspos1.X, (int)monspos1.Y, mons1.Width, mons1.Height);
+            //#endregion
+            Input(gametime);
+            if(velocity.Y<10)
+            {
+                velocity.Y+=0.4f;
+            }
+            //if (monspos1.X++ >= 200)
+            //    monspos1.X--;
+            timer += (float)gametime.ElapsedGameTime.TotalMilliseconds;
+            if (timer > interval)
+            {
+                currentFrame++;
+                timer = 0f;
+            }
+            currentFrame = currentFrame % 2;
+            sourceRect = new Rectangle(currentFrame * spriteWidth, 0, spriteWidth, spriteHeight);
+            origin = new Vector2(sourceRect.Width / 5, sourceRect.Height / 5);
+        }
+        private void Input(GameTime gametime)
+        {
+            if (Keyboard.GetState().IsKeyDown(Keys.Right))
+            {
+                velocity.X = (float)gametime.ElapsedGameTime.TotalMilliseconds / 5;
+            }
+            else if (Keyboard.GetState().IsKeyDown(Keys.Left))
+            {
+                velocity.X = -(float)gametime.ElapsedGameTime.TotalMilliseconds / 5;
+            }
+            else velocity.X=0f;
+            if (Keyboard.GetState().IsKeyDown(Keys.Space)&&hasjumped==false)
+            {
+                position.Y -= 3f;
+                velocity.Y = -8f;
+                hasjumped = true;
+            }
+        }
+        public void collision(Rectangle newrectangle, int xoffset, int yoffset)
+        {
+            if (rectangle.TouchTopOf(newrectangle))
+            {
+                rectangle.Y = newrectangle.Y - rectangle.Height;
+                velocity.Y = 0f;
+                hasjumped = false;
+            }
+            if (rectangle.TouchLeftOf(newrectangle))
+            {
+                position.X = newrectangle.X - rectangle.Width-3;
+            }
+            if (rectangle.TouchRightOf(newrectangle))
+            {
+                position.X = newrectangle.X + newrectangle.Width+3;
+            }
+            if (rectangle.TouchBottomOf(newrectangle))
+            {
+                velocity.Y = 1f;
+            }
+            if (position.X < 0) position.X = 0;
+            if (position.X > xoffset - rectangle.Width) position.X = xoffset - rectangle.Width;
+            if (position.Y< 0) position.Y = 0;
+            if (position.Y > yoffset - rectangle.Height) position.Y = yoffset - rectangle.Height;
+            #region touch coins
+            if (rcoin1.Intersects(rectangle))
+            {
+                coinpos1.X *= -10;
+                currentscore +=1;
+            }
+            if (rcoin2.Intersects(rectangle))
+            {
+                coinpos2.X *= -10;
+                currentscore +=1;
+            }
+            if (rcoin3.Intersects(rectangle))
+            {
+                coinpos3.X *= -10;
+                currentscore +=1;
+            }
+            if (rcoin4.Intersects(rectangle))
+            {
+                coinpos4.X *= -10;
+                currentscore += 1;
+            }
+            if (rcoin5.Intersects(rectangle))
+            {
+                coinpos5.X *= -10;
+                currentscore += 1;
+            }
+            if (rcoin6.Intersects(rectangle))
+            {
+                coinpos6.X *= -10;
+                currentscore += 1;
+            }
+            if (rcoin7.Intersects(rectangle))
+            {
+                coinpos7.X *= -10;
+                currentscore += 1;
+            }
+            if (rcoin8.Intersects(rectangle))
+            {
+                coinpos8.X *= -10;
+                currentscore += 1;
+            }
+            if (rcoin9.Intersects(rectangle))
+            {
+                coinpos9.X *= -10;
+                currentscore += 1;
+            }
+            if (rcoin10.Intersects(rectangle))
+            {
+                coinpos10.X *= -10;
+                currentscore +=1;
+            }
+            if (rcoin11.Intersects(rectangle))
+            {
+                coinpos11.X *= -10;
+                currentscore += 1;
+            }
+            if (rcoin12.Intersects(rectangle))
+            {
+                coinpos12.X *= -10;
+                currentscore += 1;
+            }
+            if (rcoin13.Intersects(rectangle))
+            {
+                coinpos13.X *= -10;
+                currentscore += 1;
+            }
+            if (rcoin14.Intersects(rectangle))
+            {
+                coinpos14.X *= -10;
+                currentscore += 1;
+            }
+            if (rcoin15.Intersects(rectangle))
+            {
+                coinpos15.X *= -10;
+                currentscore += 1;
+            }
+            if (rcoin16.Intersects(rectangle))
+            {
+                coinpos16.X *= -10;
+                currentscore += 1;
+            }
+            if (rcoin17.Intersects(rectangle))
+            {
+                coinpos17.X *= -10;
+                currentscore += 1;
+            }
+            if (rcoin18.Intersects(rectangle))
+            {
+                coinpos18.X *= -10;
+                currentscore += 1;
+            }
+            if (rcoin19.Intersects(rectangle))
+            {
+                coinpos19.X *= -10;
+                currentscore += 1;
+            }
+            if (rcoin20.Intersects(rectangle))
+            {
+                coinpos20.X *= -10;
+                currentscore += 1;
+            }
+            #endregion
+        }
+        public void Draw(SpriteBatch spritbatch)
+        {
+            spritbatch.Draw(texture, rectangle, Color.White);
+            #region draw coins
+            spritbatch.Draw(coin1, rcoin1, Color.White);
+            spritbatch.Draw(coin2, rcoin2, Color.White);
+            spritbatch.Draw(coin3, rcoin3, Color.White);
+            spritbatch.Draw(coin4, rcoin4, Color.White);
+            spritbatch.Draw(coin5, rcoin5, Color.White);
+            spritbatch.Draw(coin6, rcoin6, Color.White);
+            spritbatch.Draw(coin7, rcoin7, Color.White);
+            spritbatch.Draw(coin8, rcoin8, Color.White);
+            spritbatch.Draw(coin9, rcoin9, Color.White);
+            spritbatch.Draw(coin10, rcoin10, Color.White);
+            spritbatch.Draw(coin11, rcoin11, Color.White);
+            spritbatch.Draw(coin12, rcoin12, Color.White);
+            spritbatch.Draw(coin13, rcoin13, Color.White);
+            spritbatch.Draw(coin14, rcoin14, Color.White);
+            spritbatch.Draw(coin15, rcoin15, Color.White);
+            spritbatch.Draw(coin16, rcoin16, Color.White);
+            spritbatch.Draw(coin17, rcoin17, Color.White);
+            spritbatch.Draw(coin18, rcoin18, Color.White);
+            spritbatch.Draw(coin19, rcoin19, Color.White);
+            spritbatch.Draw(coin20, rcoin20, Color.White);
+            #endregion
+            //#region draw monsters
+            //spritbatch.Draw(mons1, monspos1, Color.White);
+            //#endregion
+            spritbatch.Draw(textur2, new Vector2(70,204), sourceRect, Color.White, 0f, origin, 1.0f, SpriteEffects.None, 0);
+        }
+    }
+}
